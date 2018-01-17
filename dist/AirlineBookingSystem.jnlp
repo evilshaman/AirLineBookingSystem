@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="AirlineBookingSystem.jnlp">
+  <information>
+    <title>AirlineBookingSystem</title>
+    <vendor>pav</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <jfx:javafx-runtime version="2.2+" href="http://javadl.sun.com/webapps/download/GetFile/javafx-latest/windows-i586/javafx2.jnlp"/>
+  </resources>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="AirlineBookingSystem.jar" size="3300334" download="eager" />
+    <jar href="lib/mysql-connector-java-5.0.8-bin.jar" size="540852" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="AirlineBookingSystem" >
+    <param name="requiredFXVersion" value="2.2+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="airlinebookingsystem.Main"  name="AirlineBookingSystem" />
+  <update check="always"/>
+</jnlp>

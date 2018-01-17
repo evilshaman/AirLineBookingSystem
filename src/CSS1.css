@@ -1,0 +1,69 @@
+
+.my_customLabel {
+    -fx-font: 15px "Times New Roman bold";
+}
+
+.my_customLabel1 {
+    -fx-font: 40px "Times New Roman bold";
+}
+
+.my_customLabel2 {
+    -fx-font: 12px "Times New Roman bold";
+}
+
+.my_customLabel3 {
+    -fx-font: 18px "Times New Roman bold";
+}
+
+.my_customLabel4 {
+    -fx-font: 35px "Times New Roman bold";
+}
+
+.my_customLabel5 {
+    -fx-font: 15px "Times New Roman bold";
+}
+
+.button1{
+    -fx-background-color: transparent;
+    -fx-text-fill: white;
+    -fx-font: 18px "Times New Roman bold";
+}
+
+.button1:hover {
+    -fx-background-color: orange;
+}
+
+.button2{
+    -fx-background-color: red;
+    -fx-text-fill: white;
+    -fx-font: 17px "Times New Roman bold";
+}
+
+.button2:hover {
+    -fx-background-color: orange;
+}
+
+.button4{
+    -fx-background-color: red;
+    -fx-text-fill: white;
+    -fx-font: 13px "Times New Roman bold";
+}
+
+.button4:hover {
+    -fx-background-color: orange;
+}
+
+.button3{
+    -fx-background-color: transparent;
+    -fx-text-fill: white;
+    -fx-font: 15px "Times New Roman bold";
+}
+
+.button3:hover {
+    -fx-background-color: orange;
+}
+
+.radio{
+    -fx-text-fill: white;
+    -fx-font: 13px "arial rounded mt bold";
+}
